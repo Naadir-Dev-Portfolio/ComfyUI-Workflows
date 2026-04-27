@@ -1,9 +1,9 @@
 {
   "section": "ai",
-  "category": "generativeai",
-  "n": 4,
+  "category": "workflows",
+  "n": 1,
   "title": "ComfyUI Workflows",
-  "desc": "ComfyUI node-graph workflows for AI image generation pipelines — txt2img, img2img with 4x ESRGAN upscaling, plus Python automation scripts for batch queuing and auto-renaming generated outputs.",
+  "desc": "ComfyUI node-graph workflows for AI image generation pipelines \u2014 txt2img, img2img with 4x ESRGAN upscaling, plus Python automation scripts for batch queuing and auto-renaming generated outputs.",
   "code": "https://github.com/Naadir-Dev-Portfolio/ComfyUI-Workflows",
   "details": "https://github.com/Naadir-Dev-Portfolio/ComfyUI-Workflows/blob/main/README.md",
   "tags": [
